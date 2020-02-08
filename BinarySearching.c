@@ -7,8 +7,8 @@
 */
 typedef struct LNode* List;
 struct LNode {
-	int Length;
 	ElementType Element[MAXSIZE];
+	int Length;
 };
 int BinarySearch(List Tbl, ElementType K) {
 	int left, right, mid, NotFound = -1;
