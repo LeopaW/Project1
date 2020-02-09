@@ -67,4 +67,21 @@ struct QNode2 {
 Queue2 PtrQ;
 
 ElementType DeleteQ(Queue2 PtrQ);
+
+//堆
+typedef struct HeapStruct* MaxHeap;
+struct HeapStruct {
+	ElementType* Elements;
+	int Size;		//堆当前元素个数
+	int Capacity;  //堆最大容量
+};
+
+typedef struct HeapStruct2* MinHeap;
+struct HeapStruct2 {
+	ElementType* Elements;
+	int Size;		//堆当前元素个数
+	int Capacity;  //堆最大容量
+};
+
+
 #endif

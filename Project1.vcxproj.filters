@@ -33,6 +33,21 @@
     <ClCompile Include="Queue.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BinaryTreePlus.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HuffmanTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeGroup.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h">

@@ -140,10 +140,15 @@
   <ItemGroup>
     <ClCompile Include="BinarySearching.c" />
     <ClCompile Include="BinaryTree.c" />
+    <ClCompile Include="BinaryTreePlus.c" />
+    <ClCompile Include="Graph.c" />
+    <ClCompile Include="Heap.c" />
+    <ClCompile Include="HuffmanTree.c" />
     <ClCompile Include="PolyAddMult.c" />
     <ClCompile Include="Queue.c" />
     <ClCompile Include="StackChain.c" />
     <ClCompile Include="StackInOrder.c" />
+    <ClCompile Include="TypeGroup.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
