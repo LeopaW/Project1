@@ -48,6 +48,12 @@
     <ClCompile Include="Graph.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Sort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Search.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h">

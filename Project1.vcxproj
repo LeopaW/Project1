@@ -146,6 +146,8 @@
     <ClCompile Include="HuffmanTree.c" />
     <ClCompile Include="PolyAddMult.c" />
     <ClCompile Include="Queue.c" />
+    <ClCompile Include="Search.c" />
+    <ClCompile Include="Sort.c" />
     <ClCompile Include="StackChain.c" />
     <ClCompile Include="StackInOrder.c" />
     <ClCompile Include="TypeGroup.c" />
